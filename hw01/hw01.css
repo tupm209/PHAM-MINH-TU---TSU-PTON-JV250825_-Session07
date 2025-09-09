@@ -1,0 +1,18 @@
+.box {
+  display: flex;
+  height: 300px;
+  width: 500px;
+  background-color: gainsboro;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-item {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+}
